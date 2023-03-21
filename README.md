@@ -1,2 +1,0 @@
-# psychcoding
-assignment 3 
